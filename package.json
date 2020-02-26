@@ -61,5 +61,9 @@
       "semi": 2
     }
   },
-  "sasslintConfig": "sass-lint.yml"
+  "sasslintConfig": "sass-lint.yml",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "lodash.template": "^4.5.0"
+  }
 }
